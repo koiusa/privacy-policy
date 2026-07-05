@@ -15,6 +15,6 @@
 
 ## 4. お問い合わせ
 本アプリに関するお問い合わせは、以下の窓口までお願いいたします。
-* 連絡先：[foxandowl.contact@gmail.com]
+* 連絡先：[foxandowl.info@gmail.com]
 
 制定日：2026年7月4日
